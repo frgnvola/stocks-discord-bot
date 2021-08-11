@@ -16,8 +16,8 @@ symbols = []
 
 @client.event
 async def on_ready():
-    await client.get_channel(870028201924132394).send(random.choice(GREETINGS_LIST))
-    await client.get_channel(870028201924132394).send("Type $help for a list of commands")
+    await client.get_channel('your_channel_id').send(random.choice(GREETINGS_LIST))
+    await client.get_channel('your_channel_id').send("Type $help for a list of commands")
 
 @client.command()
 async def help(ctx):
@@ -60,4 +60,4 @@ async def infoAll(ctx):
             await ctx.send(entry)
 
 
-client.run('ODcwMDM3Njk1MzMyNzU3NTE1.YQG7vw.5vpBTFkhZwry')
+client.run('ODcwMDM3Njk1MzMyNzU3NTE1.YQG7vw.5vpB')
