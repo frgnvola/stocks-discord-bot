@@ -3,7 +3,7 @@
 ## Project Overview
 Implement a python bot that keeps a list of your favorite stocks and gives you on demand access to price change analysis via sending commands as messages through Discord.
 
-<img[Uploading Screen Shot 2021-08-10 at 7.54.49 PM.png…]/>
+<img width="731" alt="stockbot_ex" src="https://user-images.githubusercontent.com/88749163/128962754-499a28ec-ccb5-444c-9543-16a6eef204fb.png">
 
 ## Libraries used in this project
 
