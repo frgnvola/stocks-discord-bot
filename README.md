@@ -3,6 +3,7 @@
 ## Project Overview
 Implement a python bot that keeps a list of your favorite stocks and gives you on demand access to price change analysis via sending commands as messages through Discord.
 
+![Uploading Screen Shot 2021-08-10 at 7.54.49 PM.png…]()
 
 ## Libraries used in this project
 
