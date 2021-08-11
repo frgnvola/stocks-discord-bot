@@ -2,10 +2,6 @@
 
 ## Project Overview
 Implement a python bot that keeps a list of your favorite stocks and gives you on demand access to price change analysis via sending commands as messages through Discord.
-This project was largely guided and inspired by the YouTube series of a much better programmer. Please look through his GitHub and YouTube for similar cryptocurrency/stock market projects in python.
- - [YouTube Channel](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ)
- - [Github](https://github.com/hackingthemarkets)
-
 
 
 ## Libraries used in this project
